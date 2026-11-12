@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | Mohamed adhil| **Reg. No.:** | 26015627|
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |12-11-26 | **Batch / Section:** |26ODJ084 |
 
 ---
 
@@ -55,8 +55,10 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 7. The motor is switched off using DPST switch 1 after bringing all the rheostats to their initial positions.
 
 ## CIRCUIT DIAGRAM
+<img width="445" height="554" alt="WhatsApp Image 2026-11-12 at 4 08 35 PM" src="https://github.com/user-attachments/assets/744128b6-1845-4316-b9b1-c9bbdf43628e" />
+<img width="454" height="570" alt="WhatsApp Image 2026-11-12 at 4 08 10 PM" src="https://github.com/user-attachments/assets/5bd36358-51ba-4d1c-bc1a-f07354dcb969" />
 
-*[ Insert the circuit diagram here ]*
+
 
 **Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
 
@@ -66,13 +68,14 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test – simulation
 
-*[ Paste the Virtual Lab OCC simulation screenshot here ]*
+<img width="904" height="773" alt="image" src="https://github.com/user-attachments/assets/54282106-d76e-49c0-8fba-60ac9322b057" />
 
 **Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
 
-*[ Paste the Virtual Lab load test simulation screenshot here ]*
+<img width="1182" height="541" alt="image" src="https://github.com/user-attachments/assets/9a513713-4fff-418b-9996-e431e2082305" />
+
 
 **Figure 3:** Virtual Lab simulation – load test
 
@@ -114,13 +117,14 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 
 ### A. Open circuit characteristics (If vs Eg)
 
-*[ Paste / draw the OCC graph here ]*
 
-**Figure 4:** Open circuit characteristics
+
+<img width="522" height="251" alt="WhatsApp Image 2026-11-12 at 4 13 10 PM" src="https://github.com/user-attachments/assets/6b3eccd7-9e7c-42bc-bb81-d9a123799363" />
+
 
 ### B. Load characteristics (IL vs VL)
+<img width="1152" height="295" alt="WhatsApp Image 2026-11-12 at 4 13 57 PM" src="https://github.com/user-attachments/assets/acbbabcd-0e95-4ffd-b8ec-7958d6b2b9b3" />
 
-*[ Paste / draw the load characteristics graph here ]*
 
 **Figure 5:** Load characteristics
 
